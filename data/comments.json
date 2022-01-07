@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "61d6bf1a48fdc71ac0089b25"
+  },
+  "created_by": "Илья",
+  "content": "Привет",
+  "reputation": 0,
+  "created_at": {
+    "$date": "2022-01-06T13:06:18.024Z"
+  },
+  "replies": [
+    {
+      "$oid": "61d6c063c48b303805884462"
+    },
+    {
+      "$oid": "61d6c094c48b303805884463"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61d6c063c48b303805884462"
+  },
+  "created_by": "Паша",
+  "content": "Ну привет!",
+  "reputation": 0,
+  "created_at": {
+    "$date": "2022-01-06T13:11:47.670Z"
+  }
+},{
+  "_id": {
+    "$oid": "61d6c094c48b303805884463"
+  },
+  "created_by": "Анна",
+  "content": "Го гамать пасаны!",
+  "reputation": 0,
+  "created_at": {
+    "$date": "2022-01-06T13:12:36.846Z"
+  },
+  "replies": [
+    {
+      "$oid": "61d6c0e77ef4432302e5a680"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "61d6c0e77ef4432302e5a680"
+  },
+  "created_by": "Юки",
+  "content": "Во что???",
+  "reputation": 0,
+  "created_at": {
+    "$date": "2022-01-06T13:13:59.411Z"
+  }
+}]
